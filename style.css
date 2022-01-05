@@ -1,0 +1,35 @@
+.container-fluid {
+    background-image: -webkit-linear-gradient(90deg,rgba(255,255,255,1.00) 0%,rgba(25,21,21,1.00) 0%,rgba(247,239,239,1.00) 45.60%,rgba(9,8,8,1.00) 100%);
+    background-image: -moz-linear-gradient(90deg,rgba(255,255,255,1.00) 0%,rgba(25,21,21,1.00) 0%,rgba(247,239,239,1.00) 45.60%,rgba(9,8,8,1.00) 100%);
+    background-image: -o-linear-gradient(90deg,rgba(255,255,255,1.00) 0%,rgba(25,21,21,1.00) 0%,rgba(247,239,239,1.00) 45.60%,rgba(9,8,8,1.00) 100%);
+    background-image: linear-gradient(0deg,rgba(255,255,255,1.00) 0%,rgba(25,21,21,1.00) 0%,rgba(247,239,239,1.00) 45.60%,rgba(9,8,8,1.00) 100%);
+ 
+	
+
+}
+
+.container-fluid.container.navbar.navbar-expand-lg.navbar-light.bg-light   {
+    background-image: -webkit-linear-gradient(90deg,rgba(57,55,55,1.00) 13.99%,rgba(57,55,55,1.00) 29.53%,rgba(211,210,210,1.00) 44.56%,rgba(61,58,58,1.00) 55.44%,rgba(74,73,73,1.00) 78.24%,rgba(10,9,9,1.00) 91.19%), url(url);
+    background-image: -moz-linear-gradient(90deg,rgba(57,55,55,1.00) 13.99%,rgba(57,55,55,1.00) 29.53%,rgba(211,210,210,1.00) 44.56%,rgba(61,58,58,1.00) 55.44%,rgba(74,73,73,1.00) 78.24%,rgba(10,9,9,1.00) 91.19%), url(url);
+    background-image: -o-linear-gradient(90deg,rgba(57,55,55,1.00) 13.99%,rgba(57,55,55,1.00) 29.53%,rgba(211,210,210,1.00) 44.56%,rgba(61,58,58,1.00) 55.44%,rgba(74,73,73,1.00) 78.24%,rgba(10,9,9,1.00) 91.19%), url(url);
+    background-image: linear-gradient(0deg,rgba(57,55,55,1.00) 13.99%,rgba(57,55,55,1.00) 29.53%,rgba(211,210,210,1.00) 44.56%,rgba(61,58,58,1.00) 55.44%,rgba(74,73,73,1.00) 78.24%,rgba(10,9,9,1.00) 91.19%), url(url);
+    background-color: red;
+}
+.modal-body{
+	width: 190vh !important;
+}
+.modal-content{
+	width: 200vh;
+	height: 700px !important;
+	
+}
+.description{
+font-size: 13.5px;
+}
+.modal-dialog {
+    width: 1000px;
+	margin-right: 30px;
+	margin-left: 35px;
+}
+
+
